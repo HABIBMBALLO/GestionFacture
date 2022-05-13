@@ -61,6 +61,7 @@ public class FactureImpl implements IFacture{
             db.getPstm().setInt(2, f.getIdF());
 
             ok = db.executeMaj();
+            db.closeConnection();
         }catch (Exception ex){
             ex.printStackTrace();
         }
