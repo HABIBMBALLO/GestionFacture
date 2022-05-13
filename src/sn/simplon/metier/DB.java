@@ -64,6 +64,10 @@ public class DB {
             ex.printStackTrace();
         }
     }
+
+    public PreparedStatement getPstm() {
+        return pstm;
+    }
 }
 
 
