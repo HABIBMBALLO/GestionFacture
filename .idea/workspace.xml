@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61aeeefa-99e7-47aa-ac62-3d4fa5dd5402" name="Changes" comment="gestion de la connexion a la  base de donnees">
-      <change afterPath="$PROJECT_DIR$/mysql-connector-java-8.0.29.jar" afterDir="false" />
+    <list default="true" id="61aeeefa-99e7-47aa-ac62-3d4fa5dd5402" name="Changes" comment="gestion de FactureImpl et ReglementImpl pour les different actions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GestionFacture.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GestionFacture.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/presentation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/presentation/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sn/simplon/entities/Facture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sn/simplon/entities/Facture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sn/simplon/entities/Reglement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sn/simplon/entities/Reglement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sn/simplon/metier/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sn/simplon/metier/DB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sn/simplon/metier/FactureImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sn/simplon/metier/FactureImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sn/simplon/metier/IFacture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sn/simplon/metier/IFacture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sn/simplon/metier/IReglement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sn/simplon/metier/IReglement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sn/simplon/metier/ReglementImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sn/simplon/metier/ReglementImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +158,7 @@
       <workItem from="1651826620292" duration="7260000" />
       <workItem from="1652106349676" duration="5714000" />
       <workItem from="1652173358803" duration="2166000" />
-      <workItem from="1652432196186" duration="5647000" />
+      <workItem from="1652432196186" duration="7486000" />
     </task>
     <task id="LOCAL-00001" summary="gestion de la connexion a la  base de donnees">
       <created>1651768749513</created>
@@ -176,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651768749513</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="gestion de FactureImpl et ReglementImpl pour les different actions">
+      <created>1652444769303</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652444769303</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +193,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gestion de la connexion a la  base de donnees" />
-    <option name="LAST_COMMIT_MESSAGE" value="gestion de la connexion a la  base de donnees" />
+    <MESSAGE value="gestion de FactureImpl et ReglementImpl pour les different actions" />
+    <option name="LAST_COMMIT_MESSAGE" value="gestion de FactureImpl et ReglementImpl pour les different actions" />
   </component>
 </project>

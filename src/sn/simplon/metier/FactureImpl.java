@@ -11,7 +11,7 @@ public class FactureImpl implements IFacture{
     private DB db = new DB();
     private ResultSet rs;
     private int ok;
-
+    // insertion
     @Override
     public int add(Facture f) {
         String sql = "INSERT INTO facture VALUES(NULL,?,?,?,?)";
